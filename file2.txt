@@ -1,3 +1,3 @@
 Good bay 
 line from user2
-line from user1 and Good morning (from user1 and branch test)
+line from user1
